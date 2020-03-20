@@ -1,2 +1,2 @@
-# benefit_transitions_and_wellbeing
-An analysis on the effect of transitions from benefit to employment on overall well-being of individuals using a combination of GSS Survey and IDI Administrative data.
+# Benefit Transitions and Wellbeing
+The Social Investment Agency has been renamed as the Social Wellbeing Agency. This repository has been moved to our new GitHub page: https://github.com/nz-social-wellbeing-agency
